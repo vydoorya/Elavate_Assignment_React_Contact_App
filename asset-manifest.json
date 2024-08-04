@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elavate_Assignment_React_Contact_App/static/css/main.9f205fe8.css",
+    "main.js": "/Elavate_Assignment_React_Contact_App/static/js/main.cfc43615.js",
+    "static/js/453.709ab7f1.chunk.js": "/Elavate_Assignment_React_Contact_App/static/js/453.709ab7f1.chunk.js",
+    "index.html": "/Elavate_Assignment_React_Contact_App/index.html",
+    "main.9f205fe8.css.map": "/Elavate_Assignment_React_Contact_App/static/css/main.9f205fe8.css.map",
+    "main.cfc43615.js.map": "/Elavate_Assignment_React_Contact_App/static/js/main.cfc43615.js.map",
+    "453.709ab7f1.chunk.js.map": "/Elavate_Assignment_React_Contact_App/static/js/453.709ab7f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f205fe8.css",
+    "static/js/main.cfc43615.js"
+  ]
+}
